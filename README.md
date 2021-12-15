@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Babak Taremi</h1>
 
-<!--
-**babaktaremi/babaktaremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <a href=www.linkedin.com/in/babak-taremi" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+ <strong>
+  My Skills
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="40" height="40" />
+<img src="https://everyday.codes/wp-content/uploads/2019/12/BrandBlazor_nohalo_1000x.png" alt="blazor" width="40" height="40" />
+</p>
+
+- 📃 I write about NET and stuff for persian community in here:https://virgool.io/@babaktaremi
+- ❔ Ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
+
+</br>
+
+<p align="center">
+ <a href="#" alt="Moien Tajik's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=babaktaremi&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
