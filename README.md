@@ -21,12 +21,13 @@
 </p>
 
 - 📃 I write about NET and stuff for persian community in here:https://virgool.io/@babaktaremi
+- ✍️ Telegram Channel : https://t.me/DotNetFunConf
 - ❔ Ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
 
 </br>
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
+ <a href="#" alt=" github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=babaktaremi&theme=tokyonight&show_icons=true" />
  </a>
 </p>
