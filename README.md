@@ -1,8 +1,20 @@
 <h1 align="center">Babak Taremi</h1>
 
 <p align="center">
- <a href=www.linkedin.com/in/babak-taremi" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ <a href="https://www.linkedin.com/in/babak-taremi/" alt="Connect on LinkedIn">
+   <img src="https://img.shields.io/badge/-Babak%20Taremi-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+ </a>
+ 
+  <a href="mailto:babaktaremi@yahoo.com" alt="Email">
+  <img src="https://img.shields.io/badge/-babaktaremi@yahoo.com-0072b1?style=flat&logo=yahoo&logoColor=white&color=purple" />
+ </a>
+ 
+  <a href="https://t.me/BoB_Tm" alt="My Telegram">
+   <img src="https://img.shields.io/badge/-@BoB_Tm-0072b1?style=flat&logo=telegram&logoColor=white&color=darkblue" />
+ </a>
+ 
+<a href="https://twitter.com/intent/follow?screen_name=babaktaremi" alt="Follow on Twitter">
+   <img src="https://img.shields.io/badge/-@BabakTaremi-0072b1?style=flat&logo=Twitter&logoColor=white" />
  </a>
   
 </p>
@@ -22,7 +34,7 @@
 
 - 📃 I write about NET and stuff for persian community in here:https://virgool.io/@babaktaremi
 - ✍️ Telegram Channel : https://t.me/DotNetFunConf
-- ❔ Ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Micro Services 
+- ❔ Ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Microservices 
 
 </br>
 
