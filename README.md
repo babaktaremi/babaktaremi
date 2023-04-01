@@ -33,7 +33,7 @@
 </p>
 
 - 📃 I write about NET and stuff for persian community in here:https://virgool.io/@babaktaremi
-- ✍️ Telegram Channel : https://t.me/DotNetFunConf
+- ✍️ Telegram Channel : https://t.me/DotNetIsFun
 - ❔ Ask me about:NET Related Stuff, DDD, Design Patterns, Clean architecture, Microservices 
 
 </br>
