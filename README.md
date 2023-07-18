@@ -16,6 +16,9 @@ I am a passionate software engineer with a focus on C# and ASP.NET Core developm
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&logo=Dotnet&color=410acc)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=for-the-badge&logo=blazor&color=6541bf)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -52,6 +55,13 @@ I am a passionate software engineer with a focus on C# and ASP.NET Core developm
 <div align="center">
 
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
