@@ -75,6 +75,10 @@ I am a passionate software engineer with a focus on C# and ASP.NET Core developm
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
  </a>
 
+ <a href="https://t.me/DotNetIsFun" alt="Linkedin">
+   <img src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+
   <a href="https://virgool.io/@babaktaremi" alt="Virgool Blog">
    <img src="https://img.shields.io/badge/-Virgool-05122A?style=for-the-badge&color=245ded" />
  </a>
